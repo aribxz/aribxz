@@ -8,15 +8,16 @@ but because the idea that a machine can learn from data genuinely fascinates me.
 
 ## What I'm building
 
-- 🏠 **Ames Housing Price Predictor** — 7 regression experiments on a real Kaggle 
+- 🏠 **Ames Housing Price Predictor** — 7 regression experiments on a real Kaggle
   dataset (2,930 houses, 80 features). Best result: Ridge (α=10), R² = 0.88.
-  
-- ⚽ **Premier League Match Outcome Predictor** *(ongoing)* — A living ML project. 
-  Every algorithm I learn gets applied here. So far: Decision Tree → Random Forest → 
-  AdaBoost. Leakage-free feature engineering, ~50% test accuracy on a 3-class problem 
-  where the naive baseline is 42.6%.
-  
-- 📊 **StudyScore** — Exam score predictor using Linear Regression with custom feature 
+
+- ⚽ **Premier League Match Outcome Predictor** — A football analytics and ML project
+  for predicting Home Win / Draw / Away Win outcomes before kickoff. It has grown from
+  Decision Trees and Random Forests into XGBoost, leakage-free feature engineering,
+  chronological validation, a scratch Dixon-Coles goal model, and a final hybrid predictor.
+  Current best balance: ~44% accuracy, 0.43 macro F1, and 0.36 draw F1.
+
+- 📊 **StudyScore** — Exam score predictor using Linear Regression with custom feature
   engineering (binary sleep flags, interaction terms), deployed as a Flask web app.
 
 ---
@@ -27,11 +28,12 @@ but because the idea that a machine can learn from data genuinely fascinates me.
 ✅ Linear Regression       ✅ Logistic Regression
 ✅ KNN                     ✅ Naive Bayes
 ✅ Decision Trees          ✅ Random Forest
-✅ AdaBoost                ⏳ SVM
-⏳ K-Means Clustering      ⏳ XGBoost
+✅ AdaBoost                ✅ Gradient Boosting
+✅ XGBoost                 ✅ Dixon-Coles / Poisson Models
+⏳ SVM                     ⏳ K-Means Clustering
 ```
 
-Studying from: StatQuest, Krish Naik, Hands-On ML (Géron), 
+Studying from: StatQuest, Krish Naik, Hands-On ML (Géron),
 Andrew Ng's ML Specialization (Stanford/DeepLearning.AI)
 
 ---
