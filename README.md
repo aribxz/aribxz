@@ -40,7 +40,7 @@ Andrew Ng's ML Specialization (Stanford/DeepLearning.AI)
 
 ## DSA
 
-170+ problems solved on LeetCode and GeeksforGeeks.
+190+ problems solved on LeetCode and GeeksforGeeks.
 Daily practice in C++.
 
 ---
@@ -48,9 +48,3 @@ Daily practice in C++.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Arib%20Salim-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-arib-salim-14a055371/)
-
-## GitHub Stats
-
-![Arib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aribxz&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aribxz&layout=compact&theme=dark&hide_border=true&hide=html)
