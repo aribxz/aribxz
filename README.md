@@ -143,8 +143,8 @@ Alongside ML, I actively practice **Data Structures & Algorithms**, having solve
 | Predictive Modeling | Proficient | Tree Models, Boosting, Cross Validation |
 | Statistics | Proficient | Hypothesis Testing, Probability, Evaluation Metrics |
 | Model Evaluation | Advanced | Precision, Recall, ROC, F1, RMSE, MAE, R² |
-| Computer Vision | Developing | Learning & Experimenting |
-| Deep Learning | Developing | Currently Expanding |
+| Computer Vision | Beginner | Learning & Experimenting |
+| Deep Learning | Beginner | Currently Expanding |
 | MLOps | Beginner | Experiment Tracking & Deployment |
 
 ---
@@ -456,8 +456,6 @@ Working on real-world machine learning solutions in a collaborative engineering 
 
 ![Google](https://img.shields.io/badge/Google-Prompting%20Essentials-4C1D95?style=for-the-badge&logo=google&logoColor=white)
 
-> *(Add future certifications from AWS, Oracle, Cisco, or Kaggle here as you earn them.)*
-
 ---
 
 # Coding Profiles
@@ -494,18 +492,6 @@ Working on real-world machine learning solutions in a collaborative engineering 
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aribxz&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</p>
-
-> **Note:** GitHub's trophy and stats services are hosted on free Vercel deployments and occasionally rate-limit or time out. If images fail to render, refresh the page — GitHub caches these images once they load successfully. The `theme` above (`algolia`) is used because it renders reliably with a dark/purple palette; if it still doesn't load, `tokyonight` or `radical` are good fallbacks.
-
----
-
 # Contribution Activity
 
 <p align="center">
@@ -513,18 +499,6 @@ Working on real-world machine learning solutions in a collaborative engineering 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aribxz&theme=tokyo-night&hide_border=true&bg_color=1E1B4B"/>
 
 </p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aribxz/aribxz/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** The contribution snake will only render once a GitHub Actions workflow generates it. To enable it: create a repository named exactly `aribxz` (matching your username), add a workflow file at `.github/workflows/snake.yml` using the [`Platane/snk`](https://github.com/Platane/snk) action, and let it run once. It commits the generated SVG to an `output` branch, which is what the image tag above points to. Until that workflow runs, this image will show as broken.
 
 ---
 
