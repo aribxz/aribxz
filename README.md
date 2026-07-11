@@ -3,12 +3,12 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Mohammad%20Arib%20Salim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1E1B4B,50:4C1D95,100:6D28D9&text=Mohammad%20Arib%20Salim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58" width="100%" />
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Building+AI+Systems;Computer+Vision+%7C+Predictive+Modeling;190%2B+DSA+Problems+Solved;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=900&color=6D28D9&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Building+AI+Systems;Computer+Vision+%7C+Predictive+Modeling;200%2B+DSA+Problems+Solved;Always+Learning+Something+New"/>
 
 </p>
 
@@ -16,28 +16,28 @@
 
 <p align="center">
 
-![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/B.Tech-CSE-4C1D95?style=for-the-badge)
 
-![](https://img.shields.io/badge/IMS%20Engineering%20College-Ghaziabad-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/IMS%20Engineering%20College-Ghaziabad-4C1D95?style=for-the-badge)
 
-![](https://img.shields.io/badge/Machine%20Learning-Focused-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Machine%20Learning-Focused-4C1D95?style=for-the-badge)
 
-![](https://img.shields.io/badge/Location-Amroha,%20India-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Amroha,%20India-4C1D95?style=for-the-badge)
 
 </p>
 
 <p align="center">
 
 <a href="mailto:anifreakxpc@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-arib-salim-14a055371/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-6D28D9?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-4C1D95?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://github.com/aribxz">
-<img src="https://img.shields.io/badge/GitHub-aribxz-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-aribxz-1E1B4B?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -46,11 +46,11 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=aribxz&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=aribxz&style=for-the-badge&color=4C1D95)
 
-![](https://img.shields.io/github/followers/aribxz?style=for-the-badge&logo=github&color=6D28D9)
+![](https://img.shields.io/github/followers/aribxz?style=for-the-badge&logo=github&color=4C1D95)
 
-![](https://img.shields.io/github/stars/aribxz?style=for-the-badge&logo=github&color=5B21B6)
+![](https://img.shields.io/github/stars/aribxz?style=for-the-badge&logo=github&color=4C1D95)
 
 </p>
 
@@ -68,7 +68,7 @@ Since then, I've been exploring machine learning through both theory and hands-o
 
 Currently, I'm working as a **Machine Learning Intern at FlyRank AI**, where I'm gaining practical experience building real-world AI solutions while continuing to deepen my understanding of machine learning systems.
 
-Alongside ML, I actively practice **Data Structures & Algorithms**, having solved **190+ problems** on LeetCode and GeeksforGeeks in C++ to strengthen my problem-solving skills.
+Alongside ML, I actively practice **Data Structures & Algorithms**, having solved **200+ problems** on LeetCode and GeeksforGeeks in C++ to strengthen my problem-solving skills.
 
 ---
 
@@ -98,7 +98,7 @@ Alongside ML, I actively practice **Data Structures & Algorithms**, having solve
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
 
 </p>
 
@@ -118,7 +118,7 @@ Alongside ML, I actively practice **Data Structures & Algorithms**, having solve
 
 <p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib"/>
 
 </p>
 
@@ -138,22 +138,23 @@ Alongside ML, I actively practice **Data Structures & Algorithms**, having solve
 
 | Domain | Proficiency | Details |
 |---------|------------|---------|
-| Machine Learning | ⭐⭐⭐⭐⭐ | Regression, Classification, Ensemble Learning |
-| Data Analysis | ⭐⭐⭐⭐⭐ | Feature Engineering, Data Cleaning, Visualization |
-| Predictive Modeling | ⭐⭐⭐⭐☆ | Tree Models, Boosting, Cross Validation |
-| Statistics | ⭐⭐⭐⭐☆ | Hypothesis Testing, Probability, Evaluation Metrics |
-| Model Evaluation | ⭐⭐⭐⭐⭐ | Precision, Recall, ROC, F1, RMSE, MAE, R² |
-| Computer Vision | ⭐⭐⭐☆☆ | Learning & Experimenting |
-| Deep Learning | ⭐⭐⭐☆☆ | Currently Expanding |
-| MLOps | ⭐⭐☆☆☆ | Experiment Tracking & Deployment |
+| Machine Learning | Advanced | Regression, Classification, Ensemble Learning |
+| Data Analysis | Advanced | Feature Engineering, Data Cleaning, Visualization |
+| Predictive Modeling | Proficient | Tree Models, Boosting, Cross Validation |
+| Statistics | Proficient | Hypothesis Testing, Probability, Evaluation Metrics |
+| Model Evaluation | Advanced | Precision, Recall, ROC, F1, RMSE, MAE, R² |
+| Computer Vision | Developing | Learning & Experimenting |
+| Deep Learning | Developing | Currently Expanding |
+| MLOps | Beginner | Experiment Tracking & Deployment |
 
 ---
 
 # Featured Projects
+
 <details>
 <summary>
 
-# 🏠 Ames Housing Price Prediction System
+## Ames Housing Price Prediction System
 
 **Production-ready Machine Learning Regression Pipeline**
 
@@ -174,7 +175,7 @@ Rather than relying on a single algorithm, the project compares several regressi
 | **Best Model** | Ridge Regression (α = 10) |
 | **Performance** | **R² = 0.88** |
 | **Focus** | Regression, Feature Engineering, Model Selection |
-| **Status** | ✅ Completed |
+| **Status** | Completed |
 
 ---
 
@@ -211,7 +212,7 @@ Rather than relying on a single algorithm, the project compares several regressi
 <details>
 <summary>
 
-# ⚽ Premier League Match Outcome Predictor
+## Premier League Match Outcome Predictor
 
 **Machine Learning + Football Analytics Platform**
 
@@ -234,7 +235,7 @@ Special emphasis has been placed on preventing data leakage through chronologica
 | **Performance** | **~44% Accuracy** |
 | **Macro F1** | **0.43** |
 | **Draw F1** | **0.36** |
-| **Status** | 🚧 Continuously Improving |
+| **Status** | Continuously Improving |
 
 ---
 
@@ -279,7 +280,7 @@ Special emphasis has been placed on preventing data leakage through chronologica
 <details>
 <summary>
 
-# 🤖 HAS (Hybrid Assistant System)
+## HAS (Hybrid Assistant System)
 
 **Enterprise AI Knowledge Platform**
 
@@ -303,7 +304,7 @@ The project emphasizes scalable software architecture, modular design, and produ
 | **Architecture** | Modular AI Pipeline |
 | **AI Workflow** | Outline → Extraction → Merge |
 | **Focus** | Knowledge Processing & AI Automation |
-| **Status** | 🚧 Currently Building |
+| **Status** | Currently Building |
 
 ---
 
@@ -361,7 +362,7 @@ Markdown Export
 <details>
 <summary>
 
-# 📊 StudyScore
+## StudyScore
 
 **Machine Learning Powered Student Performance Predictor**
 
@@ -381,7 +382,7 @@ The project combines feature engineering with regression modeling and is deploye
 | **Model** | Linear Regression |
 | **Deployment** | Flask Web Application |
 | **Focus** | Regression & Feature Engineering |
-| **Status** | ✅ Completed |
+| **Status** | Completed |
 
 ---
 
@@ -410,11 +411,11 @@ The project combines feature engineering with regression modeling and is deploye
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## Machine Learning Intern
 
-### **FlyRank AI**
+### FlyRank AI
 
 **June 2026 – Present**
 
@@ -433,50 +434,53 @@ Working on real-world machine learning solutions in a collaborative engineering 
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 | Recognition | Details |
 |--------------|---------|
-| 💻 DSA | Solved **190+** problems across LeetCode and GeeksforGeeks |
-| 📈 Machine Learning | Built multiple end-to-end ML projects from scratch |
-| ⚽ Sports Analytics | Designed a hybrid football prediction system combining statistical models with ML |
-| 🤖 AI Engineering | Building an enterprise-scale AI knowledge platform (HAS) |
-| 📚 Continuous Learning | Regularly studying ML through books, courses, and research papers |
+| DSA | Solved **200+** problems across LeetCode and GeeksforGeeks |
+| Machine Learning | Built multiple end-to-end ML projects from scratch |
+| Sports Analytics | Designed a hybrid football prediction system combining statistical models with ML |
+| AI Engineering | Building an enterprise-scale AI knowledge platform (HAS) |
+| Continuous Learning | Regularly studying ML through books, courses, and research papers |
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 ### Machine Learning
 
-![Google](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Machine%20Learning-4C1D95?style=for-the-badge)
 
-![Coursera](https://img.shields.io/badge/Coursera-Completed-0056D2?style=for-the-badge&logo=coursera)
+![Google](https://img.shields.io/badge/Google-AI%20Essentials-4C1D95?style=for-the-badge&logo=google&logoColor=white)
 
-> *(Add future certifications from AWS, Oracle, Cisco, DeepLearning.AI, or Kaggle here as you earn them.)*
+![Google](https://img.shields.io/badge/Google-Prompting%20Essentials-4C1D95?style=for-the-badge&logo=google&logoColor=white)
+
+> *(Add future certifications from AWS, Oracle, Cisco, or Kaggle here as you earn them.)*
 
 ---
 
-# 💻 Coding Profiles
+# Coding Profiles
 
 <p align="center">
 
 <a href="https://leetcode.com/u/arib_17/">
-<img src="https://img.shields.io/badge/LeetCode-arib__17-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-arib__17-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/anifrehhns/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-anifrehhns-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-anifrehhns-1E1B4B?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 ---
-# 📊 GitHub Analytics
+
+# GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aribxz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aribxz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribxz&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -490,27 +494,29 @@ Working on real-world machine learning solutions in a collaborative engineering 
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aribxz&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aribxz&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</p>
+
+> **Note:** GitHub's trophy and stats services are hosted on free Vercel deployments and occasionally rate-limit or time out. If images fail to render, refresh the page — GitHub caches these images once they load successfully. The `theme` above (`algolia`) is used because it renders reliably with a dark/purple palette; if it still doesn't load, `tokyonight` or `radical` are good fallbacks.
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aribxz&theme=tokyo-night&hide_border=true&bg_color=1E1B4B"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aribxz&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -518,11 +524,11 @@ Working on real-world machine learning solutions in a collaborative engineering 
 
 </p>
 
-> **Note:** The contribution snake requires a GitHub Actions workflow to generate automatically. Once you create your profile repository, you can add the workflow to enable it.
+> **Note:** The contribution snake will only render once a GitHub Actions workflow generates it. To enable it: create a repository named exactly `aribxz` (matching your username), add a workflow file at `.github/workflows/snake.yml` using the [`Platane/snk`](https://github.com/Platane/snk) action, and let it run once. It commits the generated SVG to an `output` branch, which is what the image tag above points to. Until that workflow runs, this image will show as broken.
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```yaml
 Current:
@@ -560,7 +566,7 @@ Open To:
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 - Machine Learning from **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (Aurélien Géron)**
 - Andrew Ng's **Machine Learning Specialization**
@@ -570,51 +576,51 @@ Open To:
 
 ---
 
-# 🌟 Philosophy
+# Philosophy
 
 > *"I enjoy understanding not just how a model works, but why it works. Building reliable machine learning systems starts with understanding the fundamentals, experimenting carefully, and continuously learning from both successes and failures."*
 
 ---
 
-# 🤝 Connect
+# Connect
 
 <p align="center">
 
 <a href="mailto:anifreakxpc@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-anifreakxpc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-anifreakxpc%40gmail.com-1E1B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-arib-salim-14a055371/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Arib%20Salim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Arib%20Salim-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/aribxz">
-<img src="https://img.shields.io/badge/GitHub-aribxz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-aribxz-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/arib_17/">
-<img src="https://img.shields.io/badge/LeetCode-arib__17-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-arib__17-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/anifrehhns/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-anifrehhns-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-anifrehhns-1E1B4B?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📌 Featured Technologies
+# Featured Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,sklearn,pytorch,tensorflow,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,sklearn,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-# 💬 Let's Build Something Together
+# Let's Build Something Together
 
 If you're working on an interesting Machine Learning, AI, or Data Science project—or just want to connect and discuss ideas—feel free to reach out. I'm always happy to learn, collaborate, and contribute.
 
@@ -622,7 +628,7 @@ If you're working on an interesting Machine Learning, AI, or Data Science projec
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:6D28D9&height=120&section=footer"/>
 
 </p>
 
